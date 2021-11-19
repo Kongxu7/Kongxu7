@@ -15,4 +15,4 @@
   
   ##
   
-  ![Snake animation](https://github.com/rafaballerini/Kongxu7/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Kongxu7/Kongxu7/blob/output/github-contribution-grid-snake.svg)
