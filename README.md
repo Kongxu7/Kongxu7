@@ -14,3 +14,5 @@
 </div>
   
   ##
+  
+  ![Snake animation](https://github.com/rafaballerini/Kongxu7/blob/output/github-contribution-grid-snake.svg)
