@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/Kongxu7">
-  <img height="180em" src="https://https://wallpaperaccess.com/full/1672336.jpg"/>                  
+  <img height="400em" width="1200" src="https://wallpapercave.com/wp/wp6064403.png"/>                  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kong-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
